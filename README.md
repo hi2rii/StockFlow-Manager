@@ -112,17 +112,22 @@ PowerShell helper:
 java -jar StockFlowManager.jar
 ```
 
-## GitHub Screenshots
+## Screenshots
 
-Add screenshots to the `screenshots` folder. Recommended screenshots:
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-- Dashboard with statistics cards and low stock alerts
-- Inventory table with search, category filter, and sort dropdown
-- Add Product dialog
-- Edit Product dialog
-- Stock adjustment dialog
-- Stock Activity tab
-- Reports tab and exported CSV file
+### Inventory Table
+![Inventory Table](screenshots/inventory-table.png)
+
+### Add Product Dialog
+![Add Product Dialog](screenshots/add-product-dialog.png)
+
+### Stock Adjustment
+![Stock Adjustment](screenshots/stock-adjustment-dialog.png)
+
+### Reports
+![Reports](screenshots/reports.png)
 
 ## Future Improvements
 
