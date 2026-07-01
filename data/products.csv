@@ -1,0 +1,11 @@
+id,name,category,vendor,quantity,unitPrice,dateAdded
+PRD-1001,Wireless Barcode Scanner,Equipment,Northline Supplies,8,89.99,2026-01-14
+PRD-1002,Thermal Receipt Paper,Office Supplies,PaperTrail Co,120,2.35,2026-01-20
+PRD-1003,Organic Olive Oil 1L,Grocery,MedHarvest Imports,24,11.50,2026-02-05
+PRD-1004,Cotton Storage Bags,Packaging,PackRight,6,4.75,2026-02-11
+PRD-1005,LED Shelf Labels,Equipment,Northline Supplies,42,6.40,2026-03-01
+PRD-1006,Arabica Coffee Beans 1kg,Grocery,Atlas Roasters,15,18.90,2026-03-12
+PRD-1007,Glass Cleaner 5L,Cleaning,BrightWorks,9,13.25,2026-04-02
+PRD-1008,Inventory Tags Pack,Office Supplies,PaperTrail Co,250,0.12,2026-04-18
+PRD-1009,Reusable Crates,Warehouse,PackRight,34,9.80,2026-05-08
+PRD-1010,Point of Sale Cash Drawer,Equipment,Northline Supplies,4,119.00,2026-05-22

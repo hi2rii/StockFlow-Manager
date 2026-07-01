@@ -1,0 +1,6 @@
+productId,productName,type,quantity,timestamp,note
+PRD-1001,Wireless Barcode Scanner,REMOVE,2,2026-06-20T10:15:00,Assigned to checkout counters
+PRD-1002,Thermal Receipt Paper,ADD,80,2026-06-21T14:30:00,Monthly restock
+PRD-1004,Cotton Storage Bags,REMOVE,10,2026-06-22T09:45:00,Used for online orders
+PRD-1007,Glass Cleaner 5L,REMOVE,3,2026-06-23T16:10:00,Store maintenance
+PRD-1009,Reusable Crates,ADD,12,2026-06-24T11:20:00,Warehouse expansion
