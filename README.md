@@ -1,6 +1,7 @@
 # StockFlow Manager
 
-StockFlow Manager is a professional Java Swing desktop application for small business inventory and stock control. It is designed as a GitHub-ready portfolio project that demonstrates Java OOP, MVC architecture, data structures, algorithms, clean code, file persistence, and a polished desktop UI.
+StockFlow Manager is a professional Java Swing desktop application for small business inventory and stock control.
+This project demonstrates Java OOP, MVC architecture, custom data structures, search and sorting algorithms, CSV file persistence, clean code practices, and desktop UI development.
 
 ## Features
 
@@ -138,6 +139,10 @@ java -jar StockFlowManager.jar
 - Product image attachments
 - More advanced vendor analytics
 - Unit tests with JUnit
+
+## Author
+
+**Hiba Boukhari**
 
 ## License
 
